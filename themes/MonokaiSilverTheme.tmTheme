@@ -9,7 +9,7 @@
 	<key>author</key>
 	<string>sumbad</string>
 	<key>name</key>
-	<string>VSCodeMonokaiReact</string>
+	<string>MonokaiSilverTheme</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -156,7 +156,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#FA2A73</string>
 			</dict>
 		</dict>
 		<dict>
@@ -178,7 +178,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#FF3B80</string>
 			</dict>
 		</dict>
 		<dict>
@@ -227,8 +227,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#A6E22E</string>
-				<key>fontStyle</key>
-				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -253,6 +251,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#A6E22E</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -553,8 +553,8 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.vs_code_monokai_react</string>
+	<string>theme.dark.monokai_silver_theme</string>
 	<key>comment</key>
-	<string>VSCode Monokai React</string>
+	<string>Monokai Silver Theme</string>
 </dict>
 </plist>

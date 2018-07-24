@@ -2,7 +2,7 @@
   "name": "monokai-silver",
   "displayName": "Monokai Silver Theme",
   "description": "Monokai Silver Theme for VS Code based on the TextMate themes.",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "publisher": "sumbad",
   "repository": {
     "type": "git",

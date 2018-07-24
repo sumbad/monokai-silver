@@ -7,5 +7,5 @@
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb"
   },
-  "tokenColors": "./MonokaiSilverTheme.tmTheme"
+  "tokenColors": "./MonokaiSilverTheme.tmtheme"
 }
